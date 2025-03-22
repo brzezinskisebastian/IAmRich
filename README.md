@@ -33,9 +33,7 @@ This project demonstrates:
    ```
 2. **Open** the project in Xcode:
    - Double-click `I am Rich.xcodeproj` (or open via Xcode → File → Open).
-3. **Optionally** add a coin sound:
-   - Place `coins.mp3` (or any `.mp3`) in the main bundle if you want the diamond tap to play a sound.
-4. **Run** the app on a simulator or real device (iOS 14+ recommended).
+3. **Run** the app on a simulator or real device (iOS 16+ recommended).
 
 ---
 
